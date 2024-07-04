@@ -8,7 +8,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Raaz Dura! 
+# <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> --> Hello there! My name is Raaz Dura
 *Web Developer (Full Stack)*
 <br /> 
 
